@@ -45,7 +45,7 @@ Sou de Salvador, BA, e atuo desenvolvendo soluções robustas e escaláveis. Com
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=davisantana14&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davisantana14&theme=dracula&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
