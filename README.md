@@ -11,7 +11,7 @@ Sou de Salvador, BA, e atuo desenvolvendo soluções robustas e escaláveis. Com
 - 💻 Atualmente sou **Gerente de Treinamentos, Orientador do Processo Seletivo e Desenvolvedor Backend na InfoJr**, liderando a equipe, capacitando membros e atuando no desenvolvimento de projetos.
 - 🎓 Sou pesquisador de **Iniciação Científica** em Engenharia de Software, com foco em Desenvolvimento Fullstack.
 - 🎪 Atuo como **Coordenador de Experiência da Semcomp** 2026 (Semana de Computação de Salvador).
-- 🌱 No momento, estou aprofundando meus estudos em **Engenharia de Software**, **Java (Spring Boot)** e ecossistema **Node.js/TypeScript**.
+- 🌱 No momento, estou aprofundando meus estudos em **Engenharia de Software**, com o ecossistema **Node.js/TypeScript** e **Java (Spring Boot)**.
 
 ---
 
