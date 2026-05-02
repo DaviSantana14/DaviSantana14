@@ -45,6 +45,11 @@ Sou de Salvador, BA, e atuo desenvolvendo soluções robustas e escaláveis. Com
 </div>
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=davisantana14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=davisantana14&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=davisantana14&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 ---
